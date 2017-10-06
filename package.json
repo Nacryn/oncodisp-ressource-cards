@@ -1,0 +1,27 @@
+{
+  "name": "oncodisp-ressource-cards",
+  "version": "1.0.0",
+  "description": "Microservice accessing and handling molecule cards for Oncodisp project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nacryn/oncodisp-ressource-cards.git"
+  },
+  "keywords": [
+    "microservice",
+    "oncodisp"
+  ],
+  "author": "Nacryn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nacryn/oncodisp-ressource-cards/issues"
+  },
+  "homepage": "https://github.com/Nacryn/oncodisp-ressource-cards#readme",
+  "dependencies": {
+    "express": "^4.16.1",
+    "http-status-codes": "^1.3.0"
+  }
+}
