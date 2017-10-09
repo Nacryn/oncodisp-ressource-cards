@@ -1,2 +1,3 @@
-# oncodisp-ressource-cards
-Microservice accessing and handling molecule's cards informations.
+# playground-microservice-docker
+
+Playground for microservice, test and docker altogether.
